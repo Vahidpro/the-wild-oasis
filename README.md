@@ -54,4 +54,4 @@ A web application built with React.js for managing hotel operations and guest re
 
 ## License
 
-This code is part of a course curriculum form Jonas Schmedtmann and is intended for educational purposes only.
+This code is part of a course curriculum form _Jonas Schmedtmann_ and is intended for educational purposes only.
